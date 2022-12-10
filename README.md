@@ -2,7 +2,7 @@
 
 <h2> Descrição do projeto </h2>
 
-O código enumera valores em ordem crescente não repetidos digitados pelo usuário em um intervalo de 0 até 5000, usando tecnologia bitwise
+O código recebe valores inteiros digitados pelo usuário em um intervalo de 0 até 5000, usando tecnologia bitwise. Após o usuário digitar "-1", será dado como saída todos os valores digitados em ordem crescente sem a repetição de nenhum deles.
 
 <h2> Comando para compilar </h2>
 
