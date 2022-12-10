@@ -37,6 +37,9 @@ Digite um valor entre 0 e 5000: -1 <br>
 Primeiro, clique em fork, e escolha a conta de sua preferência para criar um repositório espelhado em sua própria conta <br>
 
 Depois, clique em code e copie o link contido na aba, abra o terminal e digite: <br>
-git clone link_copiado
-cd 
+git clone link_copiado <br>
+cd TRAB10 <br>
+code . <br>
+
+Após isso, será aberto o projeto no software de sua preferência para que possa editá-lo da maneira que quiser <br>
 
