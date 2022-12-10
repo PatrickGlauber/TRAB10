@@ -17,7 +17,7 @@ int main(){
 
 
 
-   	while(verif != -1){                                                                 //Divide cada uma das 32 posicoes binaria do unsignet int vetzero
+   	while(verif != -1){                                                          //Divide cada uma das 32 posicoes binaria do unsignet int vetzero
         printf("Digite um valor entre 0 e 5000: ");                                 //em mais 32 posicoes, armazenando 1 na posicao
         scanf("%d", &verif);                                                        //digitada pelo usuario
         if(verif != -1){                                                            // ex: Caso o usuario digite 50, será armazenado 1 na posicao
