@@ -31,3 +31,12 @@ Digite um valor entre 0 e 5000: 1212 <br>
 Digite um valor entre 0 e 5000: 12 <br>
 Digite um valor entre 0 e 5000: -1 <br>
 0 7 12 22 100 231 342 987 1212 1231 4876 5000 <br>
+
+<h2> Como utilizar o código </h2>
+
+Primeiro, clique em fork, e escolha a conta de sua preferência para criar um repositório espelhado em sua própria conta <br>
+
+Depois, clique em code e copie o link contido na aba, abra o terminal e digite: <br>
+git clone link_copiado
+cd 
+
