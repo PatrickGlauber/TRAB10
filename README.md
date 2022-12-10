@@ -1,3 +1,3 @@
 # TRAB10
 
-<h1> Descrição do projeto </h1>
+<h2> Descrição do projeto </h2>
