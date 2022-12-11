@@ -10,6 +10,8 @@ O código recebe valores inteiros digitados pelo usuário em um intervalo de 0 a
 
 gcc TR3_537016.c -o executavel
 
+OBS: O exemplo usa o gcc, caso não funcione verifique se o gcc está instalado em sua máquina
+
 <h2> Comando para executar </h2>
 
 ./executavel
