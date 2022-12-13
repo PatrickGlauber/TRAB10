@@ -17,8 +17,8 @@ OBS: O exemplo usa o gcc, caso não funcione verifique se o gcc está instalado 
 ./executavel
 
 <h2> Exemplo de uso do código </h2>
-```
 
+```
   Digite um valor entre 0 e 5000: 0 <br>
   Digite um valor entre 0 e 5000: 342 <br>
   Digite um valor entre 0 e 5000: 231 <br>
