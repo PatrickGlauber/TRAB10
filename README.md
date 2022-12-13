@@ -19,23 +19,23 @@ OBS: O exemplo usa o gcc, caso não funcione verifique se o gcc está instalado 
 <h2> Exemplo de uso do código </h2>
 
 ```
-  Digite um valor entre 0 e 5000: 0 <br>
-  Digite um valor entre 0 e 5000: 342 <br>
-  Digite um valor entre 0 e 5000: 231 <br>
-  Digite um valor entre 0 e 5000: 100 <br>
-  Digite um valor entre 0 e 5000: 7 <br>
-  Digite um valor entre 0 e 5000: 231 <br>
-  Digite um valor entre 0 e 5000: 4876 <br>
-  Digite um valor entre 0 e 5000: 5000 <br>
-  Digite um valor entre 0 e 5000: 0 <br>
-  Digite um valor entre 0 e 5000: 1231 <br>
-  Digite um valor entre 0 e 5000: 987 <br>
-  Digite um valor entre 0 e 5000: 22 <br>
-  Digite um valor entre 0 e 5000: 5000 <br>
-  Digite um valor entre 0 e 5000: 1212 <br>
-  Digite um valor entre 0 e 5000: 12 <br>
-  Digite um valor entre 0 e 5000: -1 <br>
-  0 7 12 22 100 231 342 987 1212 1231 4876 5000 <br>
+  Digite um valor entre 0 e 5000: 0
+  Digite um valor entre 0 e 5000: 342
+  Digite um valor entre 0 e 5000: 231
+  Digite um valor entre 0 e 5000: 100
+  Digite um valor entre 0 e 5000: 7
+  Digite um valor entre 0 e 5000: 231
+  Digite um valor entre 0 e 5000: 4876
+  Digite um valor entre 0 e 5000: 5000
+  Digite um valor entre 0 e 5000: 0
+  Digite um valor entre 0 e 5000: 1231
+  Digite um valor entre 0 e 5000: 987
+  Digite um valor entre 0 e 5000: 22
+  Digite um valor entre 0 e 5000: 5000
+  Digite um valor entre 0 e 5000: 1212
+  Digite um valor entre 0 e 5000: 12
+  Digite um valor entre 0 e 5000: -1
+  0 7 12 22 100 231 342 987 1212 1231 4876 5000
   ```
 
 
