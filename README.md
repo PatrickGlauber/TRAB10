@@ -36,7 +36,6 @@ OBS: O exemplo usa o gcc, caso não funcione verifique se o gcc está instalado 
   Digite um valor entre 0 e 5000: 12 <br>
   Digite um valor entre 0 e 5000: -1 <br>
   0 7 12 22 100 231 342 987 1212 1231 4876 5000 <br>
-  
   ```
 
 
